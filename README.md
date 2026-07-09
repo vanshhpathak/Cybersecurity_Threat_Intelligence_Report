@@ -2,9 +2,10 @@
 
 
 > **Internship Program:** Cybersecurity & Ethical Hacking — Maincrafts Technology  
-> **Task:** Task 1 — Cybersecurity Threat Intelligence Report  
-> **Author:** Vansh Pathak  
-> **Date:** 9 July 2026
+> **Task:** Task 1 — Awareness & Research Project  
+> **Author:** Vansh Pathak 
+> **Date:9 July 2025
+
 ---
 
 ## 📋 Overview
@@ -47,103 +48,61 @@ This repository contains a professionally structured **Threat Intelligence Repor
 ## 📑 Report Structure
 
 ```
-## 📑 Report Structure
-
-```
-📘 Cybersecurity Threat Intelligence Report
-│
-├── 1. Executive Summary
-│   ├── Report Purpose
-│   ├── Scope
-│   └── Key Objectives
-│
-├── 2. Cybersecurity Fundamentals
-│   ├── What is Cybersecurity?
-│   ├── Importance of Cybersecurity
-│   └── Current Threat Landscape
-│
-├── 3. Emerging Threat Intelligence
-│   ├── AI-Powered Phishing & Deepfake Attacks
-│   │   ├── Overview
-│   │   ├── Threat Analysis
-│   │   ├── Real-World Case Study
-│   │   └── Mitigation Strategies
-│   │
-│   ├── Ransomware-as-a-Service (RaaS)
-│   │   ├── Overview
-│   │   ├── Threat Analysis
-│   │   ├── Real-World Case Study
-│   │   └── Mitigation Strategies
-│   │
-│   ├── Cloud Security Misconfigurations
-│   │   ├── Overview
-│   │   ├── Risk Assessment
-│   │   ├── Real-World Case Study
-│   │   └── Best Practices
-│   │
-│   ├── IoT Vulnerabilities
-│   │   ├── Overview
-│   │   ├── Security Risks
-│   │   ├── Real-World Case Study
-│   │   └── Defensive Measures
-│   │
-│   └── Zero-Day Exploits
-│       ├── Overview
-│       ├── Threat Analysis
-│       ├── Real-World Case Study
-│       └── Prevention Techniques
-│
-├── 4. Comparative Threat Analysis
-│   ├── Attack Vectors
-│   ├── Impact Assessment
-│   ├── Risk Severity
-│   └── Defense Mechanisms
-│
-├── 5. Security Recommendations
-│   ├── Preventive Controls
-│   ├── Detection Strategies
-│   ├── Incident Response
-│   └── Security Best Practices
-│
-├── 6. Conclusion & Future Outlook
-│
-└── 7. References
+1. Introduction to Cybersecurity
+2. Modern Cyber Threats Overview
+3. Threat 1 — AI-Powered Phishing Attacks
+   ├── How It Works
+   ├── Impact Analysis
+   ├── Case Study: MGM Resorts Attack (2023)
+   └── Preventive Measures
+4. Threat 2 — Ransomware-as-a-Service
+   ├── How It Works
+   ├── Impact Analysis
+   ├── Case Study: WannaCry (2017)
+   └── Preventive Measures
+5. Threat 3 — Cloud Security Misconfigurations
+   ├── How It Works
+   ├── Impact Analysis
+   ├── Case Study: Capital One Breach (2019)
+   └── Preventive Measures
+6. Threat 4 — IoT Vulnerabilities
+   ├── How It Works
+   ├── Impact Analysis
+   ├── Case Study: Mirai Botnet (2016)
+   └── Preventive Measures
+7. Threat 5 — Zero-Day Exploits
+   ├── How It Works
+   ├── Impact Analysis
+   ├── Case Study: SolarWinds Attack (2020)
+   └── Preventive Measures
+8. Comparative Impact Analysis
+9. Conclusion & Future Scope
+10. References
 ```
 
 ---
 
-#### 🔍 Key Findings
+## 🔍 Key Findings
 
-- 🤖 Artificial Intelligence has significantly increased the sophistication of phishing attacks through deepfakes and personalized social engineering.
-- 💀 Ransomware-as-a-Service (RaaS) has lowered the barrier for cybercriminals, enabling large-scale ransomware campaigns.
-- ☁️ Misconfigured cloud environments continue to expose sensitive organizational and customer data.
-- 📡 Insecure IoT devices remain a major attack vector for botnets and distributed denial-of-service (DDoS) attacks.
-- 🕳️ Zero-day vulnerabilities pose critical risks because attackers can exploit them before security patches are available.
-- 🔐 Implementing Multi-Factor Authentication (MFA), Zero Trust Architecture, and timely patch management significantly reduces cyber risk.
-- 📊 Continuous threat intelligence and proactive security monitoring are essential for detecting and responding to evolving cyber threats.
-- 🌍 Real-world incidents demonstrate that organizations of all sizes must prioritize cybersecurity awareness and resilience.
+- 💸 Cybercrime is projected to cost **$10.5 trillion annually by 2025**
+- 📊 Average data breach cost reached **$4.45 million** (IBM, 2023)
+- 🤖 AI is now being weaponized to craft **hyper-personalized phishing** attacks
+- ☁️ Cloud misconfigurations are the **#1 cause** of cloud-related breaches
+- 🔒 **85% of breaches** involve a human element (Verizon DBIR, 2023)
+
 ---
 
 ## 🛡️ Defense Strategies Covered
 
-- 🔐 Multi-Factor Authentication (MFA)
-- 🛡️ Zero Trust Security Architecture
-- 🔑 Principle of Least Privilege (PoLP)
-- 🔄 Regular Security Patch Management
-- 🔍 Continuous Vulnerability Assessment
-- 🚨 Intrusion Detection & Prevention Systems (IDS/IPS)
-- 🔥 Web Application Firewall (WAF)
-- ☁️ Cloud Security Posture Management (CSPM)
-- 📊 Security Information and Event Management (SIEM)
-- 🧠 Threat Intelligence & Threat Hunting
-- 📚 Cybersecurity Awareness and Phishing Training
-- 💾 Secure Backup & Disaster Recovery
-- 🌐 Network Segmentation
-- 🔒 Data Encryption (At Rest & In Transit)
-- 📱 Endpoint Detection & Response (EDR)
-- 🔎 Continuous Security Monitoring
-- 🔐 Identity & Access Management (IAM)
-- 📋 Incident Response & Recovery Planning
+- ✅ Multi-Factor Authentication (MFA)
+- ✅ Zero Trust Security Architecture
+- ✅ Cloud Security Posture Management (CSPM)
+- ✅ Endpoint Detection & Response (EDR)
+- ✅ Security Awareness Training
+- ✅ Regular Patch Management
+- ✅ Network Segmentation
+- ✅ IoT Security Gateways
+- ✅ Software Supply Chain Security
 
 ---
 
@@ -151,15 +110,13 @@ This repository contains a professionally structured **Threat Intelligence Repor
 
 | Source | Purpose |
 |--------|---------|
-| [OWASP Top 10](https://owasp.org/www-project-top-ten/) | Web application security risks and best practices |
-| [IBM Security](https://www.ibm.com/think/topics/cybersecurity) | Cybersecurity research and threat intelligence |
-| [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) | Cybersecurity standards and best practices |
-| [Cloud Security Alliance (CSA)](https://cloudsecurityalliance.org/) | Cloud security guidance and research |
-| [Google Cloud Mandiant](https://cloud.google.com/blog/products/identity-security) | Threat intelligence and incident analysis |
-| [BleepingComputer](https://www.bleepingcomputer.com/) | Cybersecurity news and breach reporting |
-| [Krebs on Security](https://krebsonsecurity.com/) | Cybercrime investigations and security news |
-| [Cloudflare Learning Center](https://www.cloudflare.com/learning/) | Networking, DDoS, and security concepts |
-| [MITRE ATT&CK](https://attack.mitre.org/) | Adversary tactics, techniques, and procedures (TTPs) |
+| [CISA](https://www.cisa.gov) | Official US cyber threat advisories |
+| [IBM Security](https://www.ibm.com/security) | Cost of Data Breach Report |
+| [OWASP](https://owasp.org) | Web application security risks |
+| [ENISA](https://www.enisa.europa.eu) | EU Threat Landscape Report |
+| [Verizon DBIR](https://www.verizon.com/business/resources/reports/dbir/) | Data Breach Investigations Report |
+| [KrebsOnSecurity](https://krebsonsecurity.com) | Cybercrime news & analysis |
+
 ---
 
 ## 🎓 About This Internship
