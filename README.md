@@ -58,12 +58,12 @@ This repository contains a professionally structured **Threat Intelligence Repor
 4. Threat 2 — Ransomware-as-a-Service
    ├── How It Works
    ├── Impact Analysis
-   ├── Case Study: WannaCry (2017)
+   ├── Case Study: Change Healthcare /ALPHV-BlackCat Attack (February 2024)
    └── Preventive Measures
 5. Threat 3 — Cloud Security Misconfigurations
    ├── How It Works
    ├── Impact Analysis
-   ├── Case Study: Capital One Breach (2019)
+   ├── Case Study: Toyota Motor Cloud Misconfiguration (2023–2024)
    └── Preventive Measures
 6. Threat 4 — IoT Vulnerabilities
    ├── How It Works
@@ -73,7 +73,7 @@ This repository contains a professionally structured **Threat Intelligence Repor
 7. Threat 5 — Zero-Day Exploits
    ├── How It Works
    ├── Impact Analysis
-   ├── Case Study: SolarWinds Attack (2020)
+   ├── Case Study: MOVEit Transfer Zero-Day Exploited by Clop (2023–2024)
    └── Preventive Measures
 8. Comparative Impact Analysis
 9. Conclusion & Future Scope
